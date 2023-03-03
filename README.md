@@ -4,7 +4,7 @@
 
 Create a folder called "build" in the project file, then create a VS solution using CMake
 
-![alt text](https://github.com/amrtsg/GameEngineCPP/blob/master/cmake.png?raw=true)
+![alt text](https://github.com/amrtsg/model-renderer/tree/master/screenshots/githubpics/cmake.png)
 
 After opening the solution, be sure to set "src" as the startup project, and then do the following
 
