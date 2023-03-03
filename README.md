@@ -15,6 +15,10 @@ After opening the solution, be sure to set "src" as the startup project, and the
 
 ![alt text](https://github.com/amrtsg/model-renderer/blob/master/screenshots/githubpics/showcase.gif?raw=true)
 
+- Import and load OBJ Models
+- Move camera or model around 3D space
+- Take a screenshot of current framebuffer (Record png image of object view)
+
 # Dependencies (All Included)
 
  - Assimp
