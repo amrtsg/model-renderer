@@ -1,0 +1,12 @@
+# Created with Anim8or 1.00
+# Object "box 01":
+
+newmtl tex_box_01_d
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 1.0
+map_Kd tex_box_01_d.jpg
+map_Kn tex_box_01_n.jpg
+map_Ks tex_box_01_s.jpg
+
